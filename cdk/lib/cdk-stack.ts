@@ -18,7 +18,7 @@ export class CdkStack extends Stack {
         // upload html file to s3 bucket
         new s3deploy.BucketDeployment(this, "Deployment", {
             destinationBucket: bucket,
-            sources: [s3deploy.Source.asset("../web")],
+            sources: [s3deploy.Source.asset("./web")],
         });
 
         new CfnOutput(this, "CDNURL", {
