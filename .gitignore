@@ -1,6 +1,7 @@
 .DS_Store
 .idea
 
+# js files are compiled TypeScript, that's why we ignore it
 *.js
 !jest.config.js
 *.d.ts
