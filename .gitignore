@@ -1,2 +1,15 @@
 .DS_Store
 .idea
+
+# js files are compiled TypeScript, that's why we ignore it
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Parcel default cache directory
+.parcel-cache
