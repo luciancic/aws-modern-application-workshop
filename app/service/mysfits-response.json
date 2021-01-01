@@ -12,17 +12,6 @@
             "profileImageUri": "https://www.mythicalmysfits.com/images/chimera_hover.png"
         },
         {
-            "mysfitId": "2b473002-36f8-4b87-954e-9a377e0ccbec",
-            "name": "Pauly",
-            "species": "Cyclops",
-            "age": 2,
-            "description": "Naturally needy and tyrannically temperamental, Pauly the infant cyclops is searching for a parental figure to call friend. Like raising any precocious tot, there may be occasional tantrums of thunder, lightning, and 100 decibel shrieking. Sooth him with some Mandrake root and you’ll soon wonder why people even bother having human children. Gaze into his precious eye and fall in love with this adorable tyke.",
-            "goodevil": "Neutral",
-            "lawchaos": "Lawful",
-            "thumbImageUri": "https://www.mythicalmysfits.com/images/cyclops_thumb.png",
-            "profileImageUri": "https://www.mythicalmysfits.com/images/cyclops_hover.png"
-        },
-        {
             "mysfitId": "0e37d916-f960-4772-a25a-01b762b5c1bd",
             "name": "CoCo",
             "species": "Dragon",
@@ -32,6 +21,17 @@
             "lawchaos": "Chaotic",
             "thumbImageUri": "https://www.mythicalmysfits.com/images/dragon_thumb.png",
             "profileImageUri": "https://www.mythicalmysfits.com/images/dragon_hover.png"
+        },
+        {
+            "mysfitId": "2b473002-36f8-4b87-954e-9a377e0ccbec",
+            "name": "Pauly",
+            "species": "Cyclops",
+            "age": 2,
+            "description": "Naturally needy and tyrannically temperamental, Pauly the infant cyclops is searching for a parental figure to call friend. Like raising any precocious tot, there may be occasional tantrums of thunder, lightning, and 100 decibel shrieking. Sooth him with some Mandrake root and you’ll soon wonder why people even bother having human children. Gaze into his precious eye and fall in love with this adorable tyke.",
+            "goodevil": "Neutral",
+            "lawchaos": "Lawful",
+            "thumbImageUri": "https://www.mythicalmysfits.com/images/cyclops_thumb.png",
+            "profileImageUri": "https://www.mythicalmysfits.com/images/cyclops_hover.png"
         },
         {
             "mysfitId": "da5303ae-5aba-495c-b5d6-eb5c4a66b941",
