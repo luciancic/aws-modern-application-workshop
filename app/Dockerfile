@@ -10,4 +10,4 @@ RUN echo Installing python packages from requirements.txt
 RUN pip3 install -r requirements.txt
 RUN echo Starting flask server
 ENTRYPOINT ["python3"]
-CMD ["misfitsService.py"]
+CMD ["mysfitsService.py"]
